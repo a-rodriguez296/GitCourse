@@ -1,5 +1,5 @@
 #Larry Plotter
 
-Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
+This is the remote repository of the Git course taught by AGBO.
 
 **Alejandro Rodriguez**
